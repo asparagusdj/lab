@@ -1,5 +1,5 @@
 # lab
-Backtracking laberinth resolution
+Backtracking laberinth resolver
 
 ANSI color by
 https://github.com/dialex/JColor
